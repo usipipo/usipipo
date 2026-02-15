@@ -84,7 +84,7 @@ When I'm not coding, you might find me experimenting with design tools like Phot
 
 ## 📂 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=usipipo&repo=usipipo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/usipipo/usipipo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=usipipo&repo=usipipobot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/usipipo/usipipobot)
 
 **usipipo** – A Telegram bot that provides VPN connection keys for **WireGuard** and **Outline**.  
 Built with Python and the Telegram Bot API, it automates the generation and distribution of secure VPN configurations.  
